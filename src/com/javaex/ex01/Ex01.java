@@ -33,6 +33,8 @@ public class Ex01 {
 		 * out.write(data);
 		 */
 
+		in.close();
+		out.close();
 	}
 
 }
