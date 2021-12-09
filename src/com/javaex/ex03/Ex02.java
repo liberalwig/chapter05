@@ -1,4 +1,4 @@
-//2021.12.9(목)10:30수업, 01.I/O Stream중 character buffered stream
+//2021.12.9(목)10:30수업,01.I/O Stream중 character buffered stream
 
 package com.javaex.ex03;
 
