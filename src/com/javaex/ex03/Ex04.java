@@ -10,7 +10,7 @@ import java.io.Reader;
 public class Ex04 {
 
 	public static void main(String[] args) throws IOException {
-		// 연습문제
+		
 		Reader fr = new FileReader("/Users/hs/JavaStudy/file/PhoneDB_ 원본.txt");
 		BufferedReader br = new BufferedReader(fr);
 		
